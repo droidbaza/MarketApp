@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Market</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="order_toast">Your order is accepted!</string>
+    <string name="snack_bar_text">Removing an item</string>
+    <string name="snack_bar_cancel">Cancel</string>
+    <string name="first_name">First name</string>
+    <string name="enter_you_first_name">Enter you first name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="enter_you_last_name">Enter you last name</string>
+    <string name="enter_you_email">Enter you email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_you_phone_number">Enter you phone number</string>
+    <string name="adress">Address</string>
+    <string name="enter_you_adress">Enter you address</string>
+    <string name="todo">TODO</string>
+    <string name="no_products">No orders found</string>
+    <string name="simple_name"><![CDATA[Desktop & All-in-One Computers]]></string>
+    <string name="simple_price">199 $</string>
+    <string name="simple_product_name">Spy Kids: All the Time in the World [Includes Digital Copy] [Blu-ray] [2011]</string>
+    <string name="count">1</string>
+    <string name="sum">Total:</string>
+    <string name="make_order">Buy</string>
+    <string name="catalogue">Catalogue</string>
+    <string name="purchases">Purchases</string>
+    <string name="person">Person</string>
+</resources>
